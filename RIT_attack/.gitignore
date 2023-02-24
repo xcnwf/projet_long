@@ -1,0 +1,5 @@
+#Vscode stuff
+.vscode
+
+#Local dev stuff
+fuse_filesystem/libfuse_headers
